@@ -14,7 +14,7 @@ public abstract class Innlegg {
 
 		// TODO 
 		throw new UnsupportedOperationException(TODO.constructor("Innlegg"));
-	}
+	} //test
 
 	public Innlegg(int id, String bruker, String dato, int likes) {
 
